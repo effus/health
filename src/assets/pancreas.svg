@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="10" height="6" viewBox="0 0 2.6458333 1.5875" version="1.1" id="svg56216" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="pancreas.svg">
+  <defs id="defs56210">
+    <clipPath id="clipPath4794" clipPathUnits="userSpaceOnUse">
+      <path id="path4792" d="m 353.699,3555.71 c 1.266,0.4 2.543,0.76 3.844,1.06 0.277,-0.2 0.555,-0.4 0.84,-0.6 -1.563,-0.16 -3.125,-0.31 -4.684,-0.46" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4802" spreadMethod="pad" gradientTransform="matrix(66.4383,0,0,-66.4383,442.867,3647.98)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4796" offset="0" style="stop-opacity:1;stop-color:#c83a53" />
+      <stop id="stop4798" offset="0.106952" style="stop-opacity:1;stop-color:#c83a53" />
+      <stop id="stop4800" offset="1" style="stop-opacity:1;stop-color:#c22f46" />
+    </radialGradient>
+    <clipPath id="clipPath4732" clipPathUnits="userSpaceOnUse">
+      <path id="path4730" d="m 369.637,3577.43 c 0,-2.34 -1.899,-4.24 -4.239,-4.24 -2.339,0 -4.238,1.9 -4.238,4.24 0,2.34 1.899,4.23 4.238,4.23 2.34,0 4.239,-1.89 4.239,-4.23 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4740" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,365.399,3577.43)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4734" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4736" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4738" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4714" clipPathUnits="userSpaceOnUse">
+      <path id="path4712" d="m 366.496,3570.59 c 0,-2.34 -1.898,-4.23 -4.238,-4.23 -2.34,0 -4.238,1.89 -4.238,4.23 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.238,-1.9 4.238,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4722" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,362.258,3570.59)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4716" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4718" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4720" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4696" clipPathUnits="userSpaceOnUse">
+      <path id="path4694" d="m 410.961,3568.72 c 0,-2.34 -1.898,-4.24 -4.238,-4.24 -2.34,0 -4.239,1.9 -4.239,4.24 0,2.34 1.899,4.23 4.239,4.23 2.34,0 4.238,-1.89 4.238,-4.23 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4704" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,406.722,3568.72)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4698" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4700" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4702" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4678" clipPathUnits="userSpaceOnUse">
+      <path id="path4676" d="m 401.195,3564.98 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4686" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,396.96,3564.98)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4680" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4682" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4684" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4660" clipPathUnits="userSpaceOnUse">
+      <path id="path4658" d="m 386.48,3580.51 c 0,-2.34 -1.898,-4.24 -4.238,-4.24 -2.34,0 -4.234,1.9 -4.234,4.24 0,2.34 1.894,4.24 4.234,4.24 2.34,0 4.238,-1.9 4.238,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4668" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,382.243,3580.51)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4662" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4664" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4666" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4642" clipPathUnits="userSpaceOnUse">
+      <path id="path4640" d="m 382.242,3588.12 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4650" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,378.006,3588.12)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4644" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4646" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4648" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4624" clipPathUnits="userSpaceOnUse">
+      <path id="path4622" d="m 378.75,3579.07 c 0,-2.34 -1.898,-4.24 -4.238,-4.24 -2.34,0 -4.235,1.9 -4.235,4.24 0,2.34 1.895,4.23 4.235,4.23 2.34,0 4.238,-1.89 4.238,-4.23 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4632" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,374.513,3579.07)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4626" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4628" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4630" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4606" clipPathUnits="userSpaceOnUse">
+      <path id="path4604" d="m 369.637,3568.48 c 0,-2.34 -1.899,-4.23 -4.239,-4.23 -2.339,0 -4.238,1.89 -4.238,4.23 0,2.34 1.899,4.24 4.238,4.24 2.34,0 4.239,-1.9 4.239,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4614" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,365.399,3568.49)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4608" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4610" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4612" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4588" clipPathUnits="userSpaceOnUse">
+      <path id="path4586" d="m 377.383,3572.76 c 0,-2.34 -1.899,-4.24 -4.238,-4.24 -2.34,0 -4.239,1.9 -4.239,4.24 0,2.34 1.899,4.24 4.239,4.24 2.339,0 4.238,-1.9 4.238,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4596" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,373.145,3572.76)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4590" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4592" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4594" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4570" clipPathUnits="userSpaceOnUse">
+      <path id="path4568" d="m 377.383,3566.04 c 0,-2.34 -1.899,-4.24 -4.238,-4.24 -2.34,0 -4.239,1.9 -4.239,4.24 0,2.34 1.899,4.23 4.239,4.23 2.339,0 4.238,-1.89 4.238,-4.23 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4578" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,373.145,3566.03)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4572" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4574" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4576" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4552" clipPathUnits="userSpaceOnUse">
+      <path id="path4550" d="m 361.16,3575.08 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4560" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,356.925,3575.08)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4554" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4556" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4558" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4534" clipPathUnits="userSpaceOnUse">
+      <path id="path4532" d="m 364.672,3577 c 0,-2.34 -1.899,-4.24 -4.238,-4.24 -2.34,0 -4.239,1.9 -4.239,4.24 0,2.34 1.899,4.23 4.239,4.23 2.339,0 4.238,-1.89 4.238,-4.23 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4542" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,360.434,3577)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4536" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4538" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4540" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4516" clipPathUnits="userSpaceOnUse">
+      <path id="path4514" d="m 369.637,3581.8 c 0,-2.34 -1.899,-4.24 -4.239,-4.24 -2.339,0 -4.238,1.9 -4.238,4.24 0,2.34 1.899,4.23 4.238,4.23 2.34,0 4.239,-1.89 4.239,-4.23 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4524" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,365.399,3581.8)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4518" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4520" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4522" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4498" clipPathUnits="userSpaceOnUse">
+      <path id="path4496" d="m 364.961,3586.86 c 0,-2.34 -1.895,-4.23 -4.234,-4.23 -2.34,0 -4.239,1.89 -4.239,4.23 0,2.34 1.899,4.24 4.239,4.24 2.339,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4506" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,360.725,3586.86)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4500" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4502" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4504" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4480" clipPathUnits="userSpaceOnUse">
+      <path id="path4478" d="m 358.496,3580.51 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.239,1.9 -4.239,4.24 0,2.34 1.899,4.24 4.239,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4488" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,354.26,3580.51)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4482" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4484" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4486" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4462" clipPathUnits="userSpaceOnUse">
+      <path id="path4460" d="m 363.871,3581.66 c 0,-2.34 -1.894,-4.23 -4.234,-4.23 -2.34,0 -4.239,1.89 -4.239,4.23 0,2.34 1.899,4.24 4.239,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4470" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,359.636,3581.66)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4464" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4466" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4468" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4444" clipPathUnits="userSpaceOnUse">
+      <path id="path4442" d="m 390.82,3568.48 c 0,-2.34 -1.894,-4.23 -4.234,-4.23 -2.344,0 -4.238,1.89 -4.238,4.23 0,2.34 1.894,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4452" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,386.584,3568.49)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4446" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4448" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4450" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4426" clipPathUnits="userSpaceOnUse">
+      <path id="path4424" d="m 394.109,3570.27 c 0,-2.34 -1.894,-4.23 -4.234,-4.23 -2.34,0 -4.238,1.89 -4.238,4.23 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4434" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,389.874,3570.27)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4428" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4430" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4432" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4408" clipPathUnits="userSpaceOnUse">
+      <path id="path4406" d="m 387.68,3571.42 c 0,-2.34 -1.899,-4.24 -4.239,-4.24 -2.339,0 -4.234,1.9 -4.234,4.24 0,2.34 1.895,4.24 4.234,4.24 2.34,0 4.239,-1.9 4.239,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4416" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,383.443,3571.42)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4410" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4412" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4414" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4390" clipPathUnits="userSpaceOnUse">
+      <path id="path4388" d="m 393.383,3576.27 c 0,-2.34 -1.899,-4.23 -4.238,-4.23 -2.34,0 -4.239,1.89 -4.239,4.23 0,2.34 1.899,4.24 4.239,4.24 2.339,0 4.238,-1.9 4.238,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4398" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,389.144,3576.27)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4392" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4394" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4396" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4372" clipPathUnits="userSpaceOnUse">
+      <path id="path4370" d="m 399.328,3573.45 c 0,-2.34 -1.898,-4.23 -4.238,-4.23 -2.34,0 -4.235,1.89 -4.235,4.23 0,2.35 1.895,4.24 4.235,4.24 2.34,0 4.238,-1.89 4.238,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4380" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,395.091,3573.45)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4374" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4376" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4378" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4354" clipPathUnits="userSpaceOnUse">
+      <path id="path4352" d="m 405.434,3569.22 c 0,-2.34 -1.899,-4.24 -4.239,-4.24 -2.34,0 -4.234,1.9 -4.234,4.24 0,2.34 1.894,4.23 4.234,4.23 2.34,0 4.239,-1.89 4.239,-4.23 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4362" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,401.197,3569.22)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4356" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4358" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4360" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4336" clipPathUnits="userSpaceOnUse">
+      <path id="path4334" d="m 399.902,3567.18 c 0,-2.34 -1.898,-4.23 -4.238,-4.23 -2.34,0 -4.238,1.89 -4.238,4.23 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.238,-1.9 4.238,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4344" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,395.664,3567.18)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4338" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4340" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4342" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4318" clipPathUnits="userSpaceOnUse">
+      <path id="path4316" d="m 394.109,3563.8 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4326" spreadMethod="pad" gradientTransform="matrix(4.23725,0,0,-4.23725,389.874,3563.8)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4320" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4322" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4324" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4300" clipPathUnits="userSpaceOnUse">
+      <path id="path4298" d="m 386.48,3564.98 c 0,-2.34 -1.898,-4.24 -4.238,-4.24 -2.34,0 -4.234,1.9 -4.234,4.24 0,2.34 1.894,4.24 4.234,4.24 2.34,0 4.238,-1.9 4.238,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4308" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,382.243,3564.98)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4302" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4304" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4306" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4282" clipPathUnits="userSpaceOnUse">
+      <path id="path4280" d="m 380.82,3567.71 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.344,0 -4.238,1.9 -4.238,4.24 0,2.34 1.894,4.23 4.238,4.23 2.34,0 4.234,-1.89 4.234,-4.23 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4290" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,376.584,3567.71)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4284" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4286" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4288" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4264" clipPathUnits="userSpaceOnUse">
+      <path id="path4262" d="m 359.152,3572.27 c 0,-2.34 -1.894,-4.23 -4.234,-4.23 -2.344,0 -4.238,1.89 -4.238,4.23 0,2.34 1.894,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4272" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,354.916,3572.27)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4266" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4268" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4270" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4246" clipPathUnits="userSpaceOnUse">
+      <path id="path4244" d="m 371.539,3572.76 c 0,-2.34 -1.898,-4.24 -4.238,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.238,-1.9 4.238,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4254" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,367.301,3572.76)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4248" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4250" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4252" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4228" clipPathUnits="userSpaceOnUse">
+      <path id="path4226" d="m 380.82,3574.15 c 0,-2.34 -1.894,-4.23 -4.234,-4.23 -2.344,0 -4.238,1.89 -4.238,4.23 0,2.34 1.894,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4236" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,376.584,3574.15)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4230" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4232" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4234" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4210" clipPathUnits="userSpaceOnUse">
+      <path id="path4208" d="m 386.586,3576.27 c 0,-2.34 -1.898,-4.23 -4.238,-4.23 -2.34,0 -4.239,1.89 -4.239,4.23 0,2.34 1.899,4.24 4.239,4.24 2.34,0 4.238,-1.9 4.238,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4218" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,382.347,3576.27)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4212" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4214" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4216" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4192" clipPathUnits="userSpaceOnUse">
+      <path id="path4190" d="m 391.918,3581.66 c 0,-2.34 -1.898,-4.23 -4.238,-4.23 -2.34,0 -4.239,1.89 -4.239,4.23 0,2.34 1.899,4.24 4.239,4.24 2.34,0 4.238,-1.9 4.238,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4200" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,387.68,3581.66)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4194" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4196" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4198" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4174" clipPathUnits="userSpaceOnUse">
+      <path id="path4172" d="m 397.617,3578.39 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.344,0 -4.238,1.9 -4.238,4.24 0,2.34 1.894,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4182" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,393.381,3578.39)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4176" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4178" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4180" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4156" clipPathUnits="userSpaceOnUse">
+      <path id="path4154" d="m 405.434,3575.67 c 0,-2.34 -1.899,-4.23 -4.239,-4.23 -2.34,0 -4.234,1.89 -4.234,4.23 0,2.35 1.894,4.24 4.234,4.24 2.34,0 4.239,-1.89 4.239,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4164" spreadMethod="pad" gradientTransform="matrix(4.23725,0,0,-4.23725,401.197,3575.67)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4158" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4160" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4162" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4138" clipPathUnits="userSpaceOnUse">
+      <path id="path4136" d="m 411.742,3571.68 c 0,-2.34 -1.894,-4.23 -4.234,-4.23 -2.34,0 -4.238,1.89 -4.238,4.23 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4146" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,407.506,3571.68)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4140" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4142" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4144" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4120" clipPathUnits="userSpaceOnUse">
+      <path id="path4118" d="m 407.984,3560.01 c -1.136,0 -2.171,0.45 -2.929,1.18 -0.809,0.77 -1.309,1.86 -1.309,3.06 0,0.63 0.137,1.22 0.383,1.76 0.668,1.46 2.141,2.47 3.855,2.47 2.34,0 4.239,-1.89 4.239,-4.23 0,-2.34 -1.899,-4.24 -4.239,-4.24" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4128" spreadMethod="pad" gradientTransform="matrix(4.23725,0,0,-4.23725,407.983,3564.25)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4122" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4124" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4126" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4102" clipPathUnits="userSpaceOnUse">
+      <path id="path4100" d="m 401.195,3558.71 c -2.336,0 -4.234,1.9 -4.234,4.24 0,2.34 1.898,4.23 4.234,4.23 1.137,0 2.172,-0.44 2.934,-1.17 -0.246,-0.54 -0.383,-1.13 -0.383,-1.76 0,-1.2 0.5,-2.29 1.309,-3.06 -0.672,-1.46 -2.145,-2.48 -3.86,-2.48" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4110" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,401.197,3562.95)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4104" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4106" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4108" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4084" clipPathUnits="userSpaceOnUse">
+      <path id="path4082" d="m 397.617,3560.01 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.344,0 -4.238,1.9 -4.238,4.24 0,2.34 1.894,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4092" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,393.381,3560.01)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4086" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4088" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4090" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4030" clipPathUnits="userSpaceOnUse">
+      <path id="path4028" d="m 380.82,3560.74 c 0,-2.34 -1.894,-4.23 -4.234,-4.23 -2.344,0 -4.238,1.89 -4.238,4.23 0,2.35 1.894,4.24 4.238,4.24 2.34,0 4.234,-1.89 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4038" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,376.584,3560.74)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4032" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4034" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4036" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath4012" clipPathUnits="userSpaceOnUse">
+      <path id="path4010" d="m 373.871,3568.04 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.239,1.9 -4.239,4.24 0,2.34 1.899,4.23 4.239,4.23 2.34,0 4.234,-1.89 4.234,-4.23 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4020" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,369.636,3568.04)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop4014" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop4016" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4018" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath3994" clipPathUnits="userSpaceOnUse">
+      <path id="path3992" d="m 375.773,3575.08 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient4002" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,371.538,3575.08)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop3996" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop3998" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop4000" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath3976" clipPathUnits="userSpaceOnUse">
+      <path id="path3974" d="m 382.348,3581.8 c 0,-2.34 -1.899,-4.24 -4.239,-4.24 -2.339,0 -4.238,1.9 -4.238,4.24 0,2.34 1.899,4.23 4.238,4.23 2.34,0 4.239,-1.89 4.239,-4.23 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient3984" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,378.11,3581.8)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop3978" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop3980" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop3982" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath3958" clipPathUnits="userSpaceOnUse">
+      <path id="path3956" d="m 373.145,3590.93 c 0,-2.34 -1.899,-4.24 -4.239,-4.24 -2.34,0 -4.234,1.9 -4.234,4.24 0,2.34 1.894,4.23 4.234,4.23 2.34,0 4.239,-1.89 4.239,-4.23 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient3966" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,368.908,3590.93)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop3960" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop3962" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop3964" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath3940" clipPathUnits="userSpaceOnUse">
+      <path id="path3938" d="m 378.109,3587.45 c 0,-2.34 -1.894,-4.24 -4.238,-4.24 -2.34,0 -4.234,1.9 -4.234,4.24 0,2.34 1.894,4.23 4.234,4.23 2.344,0 4.238,-1.89 4.238,-4.23 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient3948" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,373.873,3587.45)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop3942" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop3944" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop3946" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath3922" clipPathUnits="userSpaceOnUse">
+      <path id="path3920" d="m 375.773,3580.51 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient3930" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,371.538,3580.51)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop3924" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop3926" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop3928" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath3904" clipPathUnits="userSpaceOnUse">
+      <path id="path3902" d="m 370.73,3586.03 c 0,-2.34 -1.894,-4.23 -4.234,-4.23 -2.34,0 -4.238,1.89 -4.238,4.23 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient3912" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,366.495,3586.03)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop3906" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop3908" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop3910" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath3886" clipPathUnits="userSpaceOnUse">
+      <path id="path3884" d="m 387.23,3586.03 c 0,-2.34 -1.894,-4.23 -4.238,-4.23 -2.34,0 -4.234,1.89 -4.234,4.23 0,2.34 1.894,4.24 4.234,4.24 2.344,0 4.238,-1.9 4.238,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient3894" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,382.994,3586.03)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop3888" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop3890" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop3892" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath3868" clipPathUnits="userSpaceOnUse">
+      <path id="path3866" d="m 379.207,3591.68 c 0,-2.34 -1.898,-4.23 -4.238,-4.23 -2.34,0 -4.239,1.89 -4.239,4.23 0,2.34 1.899,4.24 4.239,4.24 2.34,0 4.238,-1.9 4.238,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient3876" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,374.969,3591.68)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop3870" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop3872" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop3874" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath3850" clipPathUnits="userSpaceOnUse">
+      <path id="path3848" d="m 370.73,3593.37 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient3858" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,366.495,3593.37)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop3852" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop3854" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop3856" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath3832" clipPathUnits="userSpaceOnUse">
+      <path id="path3830" d="m 363.871,3590.27 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.239,1.9 -4.239,4.24 0,2.34 1.899,4.24 4.239,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient3840" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,359.636,3590.27)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop3834" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop3836" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop3838" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath3814" clipPathUnits="userSpaceOnUse">
+      <path id="path3812" d="m 357.656,3584.75 c 0,-2.34 -1.898,-4.24 -4.238,-4.24 -2.34,0 -4.234,1.9 -4.234,4.24 0,2.34 1.894,4.23 4.234,4.23 2.34,0 4.238,-1.89 4.238,-4.23 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient3822" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,353.419,3584.75)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop3816" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop3818" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop3820" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath3796" clipPathUnits="userSpaceOnUse">
+      <path id="path3794" d="m 353.977,3577.43 c 0,-2.34 -1.899,-4.24 -4.239,-4.24 -2.34,0 -4.234,1.9 -4.234,4.24 0,2.34 1.894,4.23 4.234,4.23 2.34,0 4.239,-1.89 4.239,-4.23 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient3804" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,349.74,3577.43)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop3798" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop3800" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop3802" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath3778" clipPathUnits="userSpaceOnUse">
+      <path id="path3776" d="m 368.906,3558.71 c -1.277,0 -2.426,0.57 -3.203,1.47 -0.078,0.09 -0.152,0.18 -0.223,0.28 -0.507,0.7 -0.808,1.56 -0.808,2.49 0,1.05 0.383,2.01 1.016,2.75 0.777,0.91 1.929,1.48 3.218,1.48 2.34,0 4.239,-1.89 4.239,-4.23 0,-0.76 -0.196,-1.47 -0.543,-2.08 -0.731,-1.29 -2.11,-2.16 -3.696,-2.16" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient3786" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,368.908,3562.95)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop3780" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop3782" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop3784" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath3760" clipPathUnits="userSpaceOnUse">
+      <path id="path3758" d="m 361.16,3565.68 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient3768" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,356.925,3565.68)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop3762" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop3764" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop3766" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath3742" clipPathUnits="userSpaceOnUse">
+      <path id="path3740" d="m 362.258,3558.97 c -1.57,0 -2.942,0.85 -3.672,2.12 -0.359,0.63 -0.566,1.35 -0.566,2.12 0,2.34 1.898,4.24 4.238,4.24 1.41,0 2.66,-0.69 3.43,-1.75 -0.633,-0.74 -1.016,-1.7 -1.016,-2.75 0,-0.93 0.301,-1.79 0.808,-2.49 -0.082,-0.1 -0.171,-0.19 -0.261,-0.28 -0.766,-0.75 -1.809,-1.21 -2.961,-1.21" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient3750" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,362.258,3563.21)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop3744" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop3746" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop3748" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+    <clipPath id="clipPath3724" clipPathUnits="userSpaceOnUse">
+      <path id="path3722" d="m 355.68,3569.22 c 0,-2.34 -1.899,-4.24 -4.239,-4.24 -2.339,0 -4.238,1.9 -4.238,4.24 0,2.34 1.899,4.23 4.238,4.23 2.34,0 4.239,-1.89 4.239,-4.23 z" inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient id="radialGradient3732" spreadMethod="pad" gradientTransform="matrix(4.237,0,0,-4.237,351.441,3569.22)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" fy="0" fx="0">
+      <stop id="stop3726" offset="0" style="stop-opacity:1;stop-color:#f6883e" />
+      <stop id="stop3728" offset="0.957219" style="stop-opacity:1;stop-color:#f46b20" />
+      <stop id="stop3730" offset="1" style="stop-opacity:1;stop-color:#f46b20" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="43.338505" inkscape:cx="11.689719" inkscape:cy="3.6579396" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" units="px" />
+  <metadata id="metadata56213">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-295.41249)">
+    <path id="path3680" style="fill:#f57ea0;stroke-width:0.03527778" d="m 1.4322059,296.66734 c 0.176389,-0.0526 0.584977,-0.0892 0.893798,-0.0963 -0.301801,-0.009 -0.869421,0.0321 -1.086203,0.0963 -0.184502,0.055 -0.37412,0.10936 -0.564691,0.12489 0.254776,0.0215 0.510399,-0.0511 0.757096,-0.12489" inkscape:connector-curvature="0" />
+    <g id="g3718" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath3724)" id="g3720">
+        <path id="path3734" style="fill:url(#radialGradient3732)" d="m 355.68,3569.22 c 0,-2.34 -1.899,-4.24 -4.239,-4.24 -2.339,0 -4.238,1.9 -4.238,4.24 0,2.34 1.899,4.23 4.238,4.23 2.34,0 4.239,-1.89 4.239,-4.23" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g3736" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath3742)" id="g3738">
+        <path id="path3752" style="fill:url(#radialGradient3750)" d="m 362.258,3558.97 c -1.57,0 -2.942,0.85 -3.672,2.12 -0.359,0.63 -0.566,1.35 -0.566,2.12 0,2.34 1.898,4.24 4.238,4.24 1.41,0 2.66,-0.69 3.43,-1.75 -0.633,-0.74 -1.016,-1.7 -1.016,-2.75 0,-0.93 0.301,-1.79 0.808,-2.49 -0.082,-0.1 -0.171,-0.19 -0.261,-0.28 -0.766,-0.75 -1.809,-1.21 -2.961,-1.21" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g3754" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath3760)" id="g3756">
+        <path id="path3770" style="fill:url(#radialGradient3768)" d="m 361.16,3565.68 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g3772" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath3778)" id="g3774">
+        <path id="path3788" style="fill:url(#radialGradient3786)" d="m 368.906,3558.71 c -1.277,0 -2.426,0.57 -3.203,1.47 -0.078,0.09 -0.152,0.18 -0.223,0.28 -0.507,0.7 -0.808,1.56 -0.808,2.49 0,1.05 0.383,2.01 1.016,2.75 0.777,0.91 1.929,1.48 3.218,1.48 2.34,0 4.239,-1.89 4.239,-4.23 0,-0.76 -0.196,-1.47 -0.543,-2.08 -0.731,-1.29 -2.11,-2.16 -3.696,-2.16" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g3790" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath3796)" id="g3792">
+        <path id="path3806" style="fill:url(#radialGradient3804)" d="m 353.977,3577.43 c 0,-2.34 -1.899,-4.24 -4.239,-4.24 -2.34,0 -4.234,1.9 -4.234,4.24 0,2.34 1.894,4.23 4.234,4.23 2.34,0 4.239,-1.89 4.239,-4.23" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g3808" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath3814)" id="g3810">
+        <path id="path3824" style="fill:url(#radialGradient3822)" d="m 357.656,3584.75 c 0,-2.34 -1.898,-4.24 -4.238,-4.24 -2.34,0 -4.234,1.9 -4.234,4.24 0,2.34 1.894,4.23 4.234,4.23 2.34,0 4.238,-1.89 4.238,-4.23" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g3826" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath3832)" id="g3828">
+        <path id="path3842" style="fill:url(#radialGradient3840)" d="m 363.871,3590.27 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.239,1.9 -4.239,4.24 0,2.34 1.899,4.24 4.239,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g3844" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath3850)" id="g3846">
+        <path id="path3860" style="fill:url(#radialGradient3858)" d="m 370.73,3593.37 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g3862" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath3868)" id="g3864">
+        <path id="path3878" style="fill:url(#radialGradient3876)" d="m 379.207,3591.68 c 0,-2.34 -1.898,-4.23 -4.238,-4.23 -2.34,0 -4.239,1.89 -4.239,4.23 0,2.34 1.899,4.24 4.239,4.24 2.34,0 4.238,-1.9 4.238,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g3880" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath3886)" id="g3882">
+        <path id="path3896" style="fill:url(#radialGradient3894)" d="m 387.23,3586.03 c 0,-2.34 -1.894,-4.23 -4.238,-4.23 -2.34,0 -4.234,1.89 -4.234,4.23 0,2.34 1.894,4.24 4.234,4.24 2.344,0 4.238,-1.9 4.238,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g3898" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath3904)" id="g3900">
+        <path id="path3914" style="fill:url(#radialGradient3912)" d="m 370.73,3586.03 c 0,-2.34 -1.894,-4.23 -4.234,-4.23 -2.34,0 -4.238,1.89 -4.238,4.23 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g3916" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath3922)" id="g3918">
+        <path id="path3932" style="fill:url(#radialGradient3930)" d="m 375.773,3580.51 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g3934" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath3940)" id="g3936">
+        <path id="path3950" style="fill:url(#radialGradient3948)" d="m 378.109,3587.45 c 0,-2.34 -1.894,-4.24 -4.238,-4.24 -2.34,0 -4.234,1.9 -4.234,4.24 0,2.34 1.894,4.23 4.234,4.23 2.344,0 4.238,-1.89 4.238,-4.23" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g3952" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath3958)" id="g3954">
+        <path id="path3968" style="fill:url(#radialGradient3966)" d="m 373.145,3590.93 c 0,-2.34 -1.899,-4.24 -4.239,-4.24 -2.34,0 -4.234,1.9 -4.234,4.24 0,2.34 1.894,4.23 4.234,4.23 2.34,0 4.239,-1.89 4.239,-4.23" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g3970" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath3976)" id="g3972">
+        <path id="path3986" style="fill:url(#radialGradient3984)" d="m 382.348,3581.8 c 0,-2.34 -1.899,-4.24 -4.239,-4.24 -2.339,0 -4.238,1.9 -4.238,4.24 0,2.34 1.899,4.23 4.238,4.23 2.34,0 4.239,-1.89 4.239,-4.23" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g3988" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath3994)" id="g3990">
+        <path id="path4004" style="fill:url(#radialGradient4002)" d="m 375.773,3575.08 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4006" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4012)" id="g4008">
+        <path id="path4022" style="fill:url(#radialGradient4020)" d="m 373.871,3568.04 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.239,1.9 -4.239,4.24 0,2.34 1.899,4.23 4.239,4.23 2.34,0 4.234,-1.89 4.234,-4.23" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4024" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4030)" id="g4026">
+        <path id="path4040" style="fill:url(#radialGradient4038)" d="m 380.82,3560.74 c 0,-2.34 -1.894,-4.23 -4.234,-4.23 -2.344,0 -4.238,1.89 -4.238,4.23 0,2.35 1.894,4.24 4.238,4.24 2.34,0 4.234,-1.89 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4078" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4084)" id="g4080">
+        <path id="path4094" style="fill:url(#radialGradient4092)" d="m 397.617,3560.01 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.344,0 -4.238,1.9 -4.238,4.24 0,2.34 1.894,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4096" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4102)" id="g4098">
+        <path id="path4112" style="fill:url(#radialGradient4110)" d="m 401.195,3558.71 c -2.336,0 -4.234,1.9 -4.234,4.24 0,2.34 1.898,4.23 4.234,4.23 1.137,0 2.172,-0.44 2.934,-1.17 -0.246,-0.54 -0.383,-1.13 -0.383,-1.76 0,-1.2 0.5,-2.29 1.309,-3.06 -0.672,-1.46 -2.145,-2.48 -3.86,-2.48" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4114" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4120)" id="g4116">
+        <path id="path4130" style="fill:url(#radialGradient4128)" d="m 407.984,3560.01 c -1.136,0 -2.171,0.45 -2.929,1.18 -0.809,0.77 -1.309,1.86 -1.309,3.06 0,0.63 0.137,1.22 0.383,1.76 0.668,1.46 2.141,2.47 3.855,2.47 2.34,0 4.239,-1.89 4.239,-4.23 0,-2.34 -1.899,-4.24 -4.239,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4132" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4138)" id="g4134">
+        <path id="path4148" style="fill:url(#radialGradient4146)" d="m 411.742,3571.68 c 0,-2.34 -1.894,-4.23 -4.234,-4.23 -2.34,0 -4.238,1.89 -4.238,4.23 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4150" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4156)" id="g4152">
+        <path id="path4166" style="fill:url(#radialGradient4164)" d="m 405.434,3575.67 c 0,-2.34 -1.899,-4.23 -4.239,-4.23 -2.34,0 -4.234,1.89 -4.234,4.23 0,2.35 1.894,4.24 4.234,4.24 2.34,0 4.239,-1.89 4.239,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4168" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4174)" id="g4170">
+        <path id="path4184" style="fill:url(#radialGradient4182)" d="m 397.617,3578.39 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.344,0 -4.238,1.9 -4.238,4.24 0,2.34 1.894,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4186" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4192)" id="g4188">
+        <path id="path4202" style="fill:url(#radialGradient4200)" d="m 391.918,3581.66 c 0,-2.34 -1.898,-4.23 -4.238,-4.23 -2.34,0 -4.239,1.89 -4.239,4.23 0,2.34 1.899,4.24 4.239,4.24 2.34,0 4.238,-1.9 4.238,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4204" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4210)" id="g4206">
+        <path id="path4220" style="fill:url(#radialGradient4218)" d="m 386.586,3576.27 c 0,-2.34 -1.898,-4.23 -4.238,-4.23 -2.34,0 -4.239,1.89 -4.239,4.23 0,2.34 1.899,4.24 4.239,4.24 2.34,0 4.238,-1.9 4.238,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4222" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4228)" id="g4224">
+        <path id="path4238" style="fill:url(#radialGradient4236)" d="m 380.82,3574.15 c 0,-2.34 -1.894,-4.23 -4.234,-4.23 -2.344,0 -4.238,1.89 -4.238,4.23 0,2.34 1.894,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4240" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4246)" id="g4242">
+        <path id="path4256" style="fill:url(#radialGradient4254)" d="m 371.539,3572.76 c 0,-2.34 -1.898,-4.24 -4.238,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.238,-1.9 4.238,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4258" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4264)" id="g4260">
+        <path id="path4274" style="fill:url(#radialGradient4272)" d="m 359.152,3572.27 c 0,-2.34 -1.894,-4.23 -4.234,-4.23 -2.344,0 -4.238,1.89 -4.238,4.23 0,2.34 1.894,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4276" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4282)" id="g4278">
+        <path id="path4292" style="fill:url(#radialGradient4290)" d="m 380.82,3567.71 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.344,0 -4.238,1.9 -4.238,4.24 0,2.34 1.894,4.23 4.238,4.23 2.34,0 4.234,-1.89 4.234,-4.23" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4294" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4300)" id="g4296">
+        <path id="path4310" style="fill:url(#radialGradient4308)" d="m 386.48,3564.98 c 0,-2.34 -1.898,-4.24 -4.238,-4.24 -2.34,0 -4.234,1.9 -4.234,4.24 0,2.34 1.894,4.24 4.234,4.24 2.34,0 4.238,-1.9 4.238,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4312" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4318)" id="g4314">
+        <path id="path4328" style="fill:url(#radialGradient4326)" d="m 394.109,3563.8 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4330" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4336)" id="g4332">
+        <path id="path4346" style="fill:url(#radialGradient4344)" d="m 399.902,3567.18 c 0,-2.34 -1.898,-4.23 -4.238,-4.23 -2.34,0 -4.238,1.89 -4.238,4.23 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.238,-1.9 4.238,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4348" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4354)" id="g4350">
+        <path id="path4364" style="fill:url(#radialGradient4362)" d="m 405.434,3569.22 c 0,-2.34 -1.899,-4.24 -4.239,-4.24 -2.34,0 -4.234,1.9 -4.234,4.24 0,2.34 1.894,4.23 4.234,4.23 2.34,0 4.239,-1.89 4.239,-4.23" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4366" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4372)" id="g4368">
+        <path id="path4382" style="fill:url(#radialGradient4380)" d="m 399.328,3573.45 c 0,-2.34 -1.898,-4.23 -4.238,-4.23 -2.34,0 -4.235,1.89 -4.235,4.23 0,2.35 1.895,4.24 4.235,4.24 2.34,0 4.238,-1.89 4.238,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4384" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4390)" id="g4386">
+        <path id="path4400" style="fill:url(#radialGradient4398)" d="m 393.383,3576.27 c 0,-2.34 -1.899,-4.23 -4.238,-4.23 -2.34,0 -4.239,1.89 -4.239,4.23 0,2.34 1.899,4.24 4.239,4.24 2.339,0 4.238,-1.9 4.238,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4402" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4408)" id="g4404">
+        <path id="path4418" style="fill:url(#radialGradient4416)" d="m 387.68,3571.42 c 0,-2.34 -1.899,-4.24 -4.239,-4.24 -2.339,0 -4.234,1.9 -4.234,4.24 0,2.34 1.895,4.24 4.234,4.24 2.34,0 4.239,-1.9 4.239,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4420" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4426)" id="g4422">
+        <path id="path4436" style="fill:url(#radialGradient4434)" d="m 394.109,3570.27 c 0,-2.34 -1.894,-4.23 -4.234,-4.23 -2.34,0 -4.238,1.89 -4.238,4.23 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4438" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4444)" id="g4440">
+        <path id="path4454" style="fill:url(#radialGradient4452)" d="m 390.82,3568.48 c 0,-2.34 -1.894,-4.23 -4.234,-4.23 -2.344,0 -4.238,1.89 -4.238,4.23 0,2.34 1.894,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4456" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4462)" id="g4458">
+        <path id="path4472" style="fill:url(#radialGradient4470)" d="m 363.871,3581.66 c 0,-2.34 -1.894,-4.23 -4.234,-4.23 -2.34,0 -4.239,1.89 -4.239,4.23 0,2.34 1.899,4.24 4.239,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4474" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4480)" id="g4476">
+        <path id="path4490" style="fill:url(#radialGradient4488)" d="m 358.496,3580.51 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.239,1.9 -4.239,4.24 0,2.34 1.899,4.24 4.239,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4492" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4498)" id="g4494">
+        <path id="path4508" style="fill:url(#radialGradient4506)" d="m 364.961,3586.86 c 0,-2.34 -1.895,-4.23 -4.234,-4.23 -2.34,0 -4.239,1.89 -4.239,4.23 0,2.34 1.899,4.24 4.239,4.24 2.339,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4510" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4516)" id="g4512">
+        <path id="path4526" style="fill:url(#radialGradient4524)" d="m 369.637,3581.8 c 0,-2.34 -1.899,-4.24 -4.239,-4.24 -2.339,0 -4.238,1.9 -4.238,4.24 0,2.34 1.899,4.23 4.238,4.23 2.34,0 4.239,-1.89 4.239,-4.23" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4528" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4534)" id="g4530">
+        <path id="path4544" style="fill:url(#radialGradient4542)" d="m 364.672,3577 c 0,-2.34 -1.899,-4.24 -4.238,-4.24 -2.34,0 -4.239,1.9 -4.239,4.24 0,2.34 1.899,4.23 4.239,4.23 2.339,0 4.238,-1.89 4.238,-4.23" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4546" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4552)" id="g4548">
+        <path id="path4562" style="fill:url(#radialGradient4560)" d="m 361.16,3575.08 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4564" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4570)" id="g4566">
+        <path id="path4580" style="fill:url(#radialGradient4578)" d="m 377.383,3566.04 c 0,-2.34 -1.899,-4.24 -4.238,-4.24 -2.34,0 -4.239,1.9 -4.239,4.24 0,2.34 1.899,4.23 4.239,4.23 2.339,0 4.238,-1.89 4.238,-4.23" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4582" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4588)" id="g4584">
+        <path id="path4598" style="fill:url(#radialGradient4596)" d="m 377.383,3572.76 c 0,-2.34 -1.899,-4.24 -4.238,-4.24 -2.34,0 -4.239,1.9 -4.239,4.24 0,2.34 1.899,4.24 4.239,4.24 2.339,0 4.238,-1.9 4.238,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4600" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4606)" id="g4602">
+        <path id="path4616" style="fill:url(#radialGradient4614)" d="m 369.637,3568.48 c 0,-2.34 -1.899,-4.23 -4.239,-4.23 -2.339,0 -4.238,1.89 -4.238,4.23 0,2.34 1.899,4.24 4.238,4.24 2.34,0 4.239,-1.9 4.239,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4618" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4624)" id="g4620">
+        <path id="path4634" style="fill:url(#radialGradient4632)" d="m 378.75,3579.07 c 0,-2.34 -1.898,-4.24 -4.238,-4.24 -2.34,0 -4.235,1.9 -4.235,4.24 0,2.34 1.895,4.23 4.235,4.23 2.34,0 4.238,-1.89 4.238,-4.23" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4636" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4642)" id="g4638">
+        <path id="path4652" style="fill:url(#radialGradient4650)" d="m 382.242,3588.12 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4654" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4660)" id="g4656">
+        <path id="path4670" style="fill:url(#radialGradient4668)" d="m 386.48,3580.51 c 0,-2.34 -1.898,-4.24 -4.238,-4.24 -2.34,0 -4.234,1.9 -4.234,4.24 0,2.34 1.894,4.24 4.234,4.24 2.34,0 4.238,-1.9 4.238,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4672" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4678)" id="g4674">
+        <path id="path4688" style="fill:url(#radialGradient4686)" d="m 401.195,3564.98 c 0,-2.34 -1.894,-4.24 -4.234,-4.24 -2.34,0 -4.238,1.9 -4.238,4.24 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.234,-1.9 4.234,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4690" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4696)" id="g4692">
+        <path id="path4706" style="fill:url(#radialGradient4704)" d="m 410.961,3568.72 c 0,-2.34 -1.898,-4.24 -4.238,-4.24 -2.34,0 -4.239,1.9 -4.239,4.24 0,2.34 1.899,4.23 4.239,4.23 2.34,0 4.238,-1.89 4.238,-4.23" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4708" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4714)" id="g4710">
+        <path id="path4724" style="fill:url(#radialGradient4722)" d="m 366.496,3570.59 c 0,-2.34 -1.898,-4.23 -4.238,-4.23 -2.34,0 -4.238,1.89 -4.238,4.23 0,2.34 1.898,4.24 4.238,4.24 2.34,0 4.238,-1.9 4.238,-4.24" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g id="g4726" transform="matrix(0.03527778,0,0,-0.03527778,-12.188614,422.43756)">
+      <g clip-path="url(#clipPath4732)" id="g4728">
+        <path id="path4742" style="fill:url(#radialGradient4740)" d="m 369.637,3577.43 c 0,-2.34 -1.899,-4.24 -4.239,-4.24 -2.339,0 -4.238,1.9 -4.238,4.24 0,2.34 1.899,4.23 4.238,4.23 2.34,0 4.239,-1.89 4.239,-4.23" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
