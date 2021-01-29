@@ -24,6 +24,8 @@
       <button class="btn" v-bind:class="{active: humanSystemVisible.respiratory}" v-on:click="humanSystemVisible.respiratory = !humanSystemVisible.respiratory">Respiratory</button>
       <button class="btn" v-bind:class="{active: humanSystemVisible.endocrine}" v-on:click="humanSystemVisible.endocrine = !humanSystemVisible.endocrine">Endocrine</button>
       <button class="btn" v-bind:class="{active: humanSystemVisible.urine}" v-on:click="humanSystemVisible.urine = !humanSystemVisible.urine">Urine</button>
+      <div>&nbsp;</div>
+      <button class="btn event" v-on:click="triggerEvent('eat', {item: 'burger'})">Eat burger</button>
     </div>
   </div>
 </template>
@@ -51,6 +53,11 @@ export default {
         urine: false
       }
     }
+  },
+  methods: {
+    triggerEvent(event, params) {
+      
+    }
   }
 }
 </script>
@@ -64,7 +71,7 @@ export default {
   height: 80%;
   top: 10%;
   display: grid;
-  grid-template-rows: repeat(10, 30px);
+  grid-template-rows: repeat(16, 30px);
   .btn {
     margin: 1px;
     &.active {
@@ -73,6 +80,10 @@ export default {
     }
     &:focus {
       outline: none;
+    }
+    &.event {
+      background: rgba(255, 255, 0, 0.562);
+      border: 1px solid #ccc;
     }
   }
 }
