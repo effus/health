@@ -31,7 +31,8 @@
 </template>
 
 <script>
-import Human from './Human.vue'
+import Human from './Human.vue';
+import {HumanEngine} from './human/HumanEngine.js';
 export default {
   components: { Human },
   name: 'Main',
@@ -51,7 +52,8 @@ export default {
         respiratory: false,
         endocrine: false,
         urine: false
-      }
+      },
+      humanEngine: new HumanEngine()
     }
   },
   methods: {
